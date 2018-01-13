@@ -1,13 +1,27 @@
-# Provided by Dr. Marzieh Ahmadzadeh for CSCA08
-
 # This code comes from "Data Structures & Algorithms in Python"
 # by M. Goodrich, R. Tamassia and M.Goldwasser with some modifications
 # to fit my course.
 
 
+class VectorDimensionError(Exception):
+    '''
+    Raise when a vector as input do not satisfy some dimension requirement
+    '''
+    pass
+
+
 class Vector(object):
+    '''
+    representation invariant:
+
+    - size will always be the length of the vector initially defined
+    - if _vect is not empty
+        _vect[:] will be the components of the vector
+        _vect[i] for 0 <= i <= size - 1 will be an int
+    '''
+
     def __init__(self, size):
-        ''' (Vector, obj) -> NoneType
+        ''' (Vector, int) -> NoneType
         creates a geometric vector of the given size'''
         self._vect = [0] * size
 
@@ -32,7 +46,7 @@ class Vector(object):
         # check for equality of the length
         if self.length() != other_vect.length():
             # you can throw your own exception
-            raise ValueError("dimenstions of the vectors must agree")
+            raise ValueError("dimensions of the vectors must agree")
         # create an empty vector
         sum = Vector(self.length())
         # add them up
