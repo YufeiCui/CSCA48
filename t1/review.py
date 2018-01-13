@@ -14,16 +14,21 @@ print(matrix)  # what's the output?
 # 2. mutating lists
 
 def append_to_list(array, item):
-    array += [item]
+    array = array + [item]
 
 
 def append_to_list2(array, item):
+    array += [item]
+
+
+def append_to_list3(array, item):
     array.append(item)
 
 
 my_list = [1, 2, "three"]
 append_to_list(my_list, "Hello")
-append_to_list2(my_list, "Yufei")
+append_to_list2(my_list, "World")
+append_to_list3(my_list, "Yufei")
 print(my_list)  # what's the output?
 
 # 3. More stuff
@@ -40,8 +45,8 @@ list3[2][0] = "WOO!"
 print(list1)  # what's the output?
 
 import copy
+
 list4 = copy.deepcopy(list1)
 print(list1 is list4)
 list4[2][0] = "FOO!"
 print(list1)  # what's the output?
-
