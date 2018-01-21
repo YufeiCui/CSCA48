@@ -1,3 +1,10 @@
+# instructions & exercises
 *.pdf
 ex[0-9]*.py
+
+# pycache
 *__pycache__*.pyc
+
+# Intellij stuff
+.idea
+*.iml
