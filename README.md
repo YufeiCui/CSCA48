@@ -1,7 +1,7 @@
 # CSCA48
 
 This is where I will post some of the code that's been discussed during tutorial. Check here often and let me know if I'm missing anything important. 
-Thanks and goodluck everyone! :)
+Thanks and good luck everyone! :)
 
 
 Introduction to Computer Science II
