@@ -6,7 +6,7 @@ Thanks and goodluck everyone! :)
 
 Introduction to Computer Science II
 
-[Tutorial 1] - Review and ADT
+[Tutorial 1] - Review and ADT  
 [Tutorial 2] - Decimal -> Binary with a Stack
 
 
