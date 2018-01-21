@@ -8,20 +8,22 @@
 
 class VectorDimensionError(Exception):
     '''
-    Raise when a vector as input do not satisfy some dimension requirement
+    Raises when a vector as input do not satisfy some dimension requirement
     '''
     pass
 
 
 class Vector(object):
-    '''
-    representation invariant:
 
-    - size will always be the length of the vector initially defined
-    - if _vect is not empty
-        _vect[:] will be the components of the vector
-        _vect[i] for 0 <= i <= size - 1 will be an int
-    '''
+    # Representation invariant:
+    #
+    #   _vect is a list
+    #   len(_vect) == size after initialization (never change)
+    #   if len(_vect) > 0
+    #       _vect[:] is the components of the vector
+    #       _vect[i] for 0 <= i <= size-1
+    #           - is an int
+    #           - is the ith member in the vector
 
     def __init__(self, size):
         ''' (Vector, int) -> NoneType
@@ -51,22 +53,24 @@ class Vector(object):
             # you can throw your own exception
             raise ValueError("dimensions of the vectors must agree")
         # create an empty vector
-        sum = Vector(self.length())
+        sum_vect = Vector(self.length())
         # add them up
         for index in range(0, self.length()):
-            sum.set(index, self._vect[index] + other_vect.get(index))
-        return sum
+            sum_vect.set(index, self._vect[index] + other_vect.get(index))
+        return sum_vect
 
     def equal(self, other_vect):
         '''(Vector, Vector) -> bool
         returns true if two vectors have the same coordinates
         '''
+
+        # What's wrong here?
         return self._vect == other_vect._vect
 
     def __str__(self):
         '''(Vector) -> str
         returns a string representing the vector'''
-        return str(self._vect[0:])
+        return str(self._vect[:])
 
 
 if __name__ == "__main__":
