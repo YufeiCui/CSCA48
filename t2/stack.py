@@ -1,4 +1,4 @@
-# Provided by Dr. Marzieh Ahmadzadeh. Edited by Yufei Cui
+# Provided by Dr. Marzieh Ahmadzadeh & Nick Cheng. Edited by Yufei Cui
 
 
 class EmptyStackException(Exception):
@@ -6,8 +6,8 @@ class EmptyStackException(Exception):
 
 
 class Stack(object):
-    ''' this class defines a FILO stack of items and raise an exception in case the Stack is empty where pop() or top(
-    ) is requested '''
+    ''' this class defines a LIFO/FILO stack of items and raise an exception in case the Stack is empty where pop() or
+    top() is requested '''
 
     def __init__(self):
         '''(Stack) -> Nonetype
