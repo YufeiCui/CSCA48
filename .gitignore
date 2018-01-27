@@ -1,7 +1,10 @@
 # Instructions & Exercises #
 ############################
 *.pdf
+*.docx
+*.doc
 ex[0-9]*.py
+deque.py
 
 # pycache #
 ###########

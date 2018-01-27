@@ -7,7 +7,8 @@ Thanks and good luck everyone! :)
 Introduction to Computer Science II
 
 [Tutorial 1] - Review and ADT  
-[Tutorial 2] - Decimal -> Binary with a Stack
+[Tutorial 2] - Decimal -> Binary with a Stack  
+[Tutorial 2] - Double ended queue -> Deque
 
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its 
@@ -16,3 +17,4 @@ Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdow
 
    [Tutorial 1]: <https://github.com/YufeiCui/CSCA48/tree/master/t1>
    [Tutorial 2]: <https://github.com/YufeiCui/CSCA48/tree/master/t2>
+   [Tutorial 3]: <https://github.com/YufeiCui/CSCA48/tree/master/t3>

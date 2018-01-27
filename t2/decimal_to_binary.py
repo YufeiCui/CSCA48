@@ -1,4 +1,4 @@
-# Provided by Dr. Marzieh Ahmadzadeh. Edited by Yufei Cui
+# Provided by Dr. Marzieh Ahmadzadeh & Nick Cheng. Edited by Yufei Cui
 
 
 from stack import Stack
