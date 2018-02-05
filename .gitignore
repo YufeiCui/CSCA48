@@ -4,7 +4,6 @@
 *.docx
 *.doc
 ex[0-9]*.py
-indexed_dll.py
 
 # pycache #
 ###########
