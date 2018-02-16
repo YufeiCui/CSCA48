@@ -1,6 +1,6 @@
 # Instructions & Exercises #
 ############################
-*.pdf
+instruction.pdf
 *.docx
 *.doc
 ex[0-9]*.py
