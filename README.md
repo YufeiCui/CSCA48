@@ -10,7 +10,8 @@ Introduction to Computer Science II
 [Tutorial 2] - Decimal -> Binary with a Stack  
 [Tutorial 3] - Double ended queue (Deque)  
 [Tutorial 4] - Indexed Doubly Linked List  
-[Tutorial 5] - (Binary) Trees 
+[Tutorial 5] - (Binary) Trees  [Helpful Links:  [1](http://btechsmartclass.com/DS/U5_T1.html>)
+                                                [2](http://www.algolist.net/Data_structures/Binary_search_tree/Removal)]
 
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its 
