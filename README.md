@@ -9,7 +9,8 @@ Introduction to Computer Science II
 [Tutorial 1] - Review and ADT  
 [Tutorial 2] - Decimal -> Binary with a Stack  
 [Tutorial 3] - Double ended queue (Deque)  
-[Tutorial 4] - Indexed Doubly Linked List
+[Tutorial 4] - Indexed Doubly Linked List  
+[Tutorial 5] - (Binary) Trees 
 
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its 
@@ -20,3 +21,4 @@ Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdow
    [Tutorial 2]: <https://github.com/YufeiCui/CSCA48/tree/master/tutorials/t2>
    [Tutorial 3]: <https://github.com/YufeiCui/CSCA48/tree/master/tutorials/t3>
    [Tutorial 4]: <https://github.com/YufeiCui/CSCA48/tree/master/tutorials/t4>
+   [Tutorial 5]: <https://github.com/YufeiCui/CSCA48/tree/master/tutorials/t5>
