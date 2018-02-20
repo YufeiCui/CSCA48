@@ -4,6 +4,7 @@ instruction.pdf
 *.docx
 *.doc
 ex[0-9]*.py
+other/*
 
 # pycache #
 ###########
