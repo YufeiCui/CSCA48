@@ -13,7 +13,7 @@ Introduction to Computer Science II
 [Tutorial 5] - (Binary) Trees  [Helpful Links:  [1](http://btechsmartclass.com/DS/U5_T1.html)
                                                 [2](http://www.algolist.net/Data_structures/Binary_search_tree/Removal)
                                                 [3](https://www.cs.usfca.edu/~galles/visualization/BST.html)]  
-[Tutorial 6] - Entry Heap
+[Tutorial 6] - Entry Heap  
 [Tutorial 7] - Recursion
 
 
