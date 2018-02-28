@@ -14,6 +14,7 @@ Introduction to Computer Science II
                                                 [2](http://www.algolist.net/Data_structures/Binary_search_tree/Removal)
                                                 [3](https://www.cs.usfca.edu/~galles/visualization/BST.html)]  
 [Tutorial 6] - Entry Heap
+[Tutorial 7] - Recursion
 
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its 
@@ -26,3 +27,4 @@ Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdow
    [Tutorial 4]: <https://github.com/YufeiCui/CSCA48/tree/master/tutorials/t4>
    [Tutorial 5]: <https://github.com/YufeiCui/CSCA48/tree/master/tutorials/t5>
    [Tutorial 6]: <https://github.com/YufeiCui/CSCA48/tree/master/tutorials/t6>
+   [Tutorial 7]: <https://github.com/YufeiCui/CSCA48/tree/master/tutorials/t7>
