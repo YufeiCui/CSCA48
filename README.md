@@ -12,7 +12,8 @@ Introduction to Computer Science II
 [Tutorial 4] - Indexed Doubly Linked List  
 [Tutorial 5] - (Binary) Trees  [Helpful Links:  [1](http://btechsmartclass.com/DS/U5_T1.html)
                                                 [2](http://www.algolist.net/Data_structures/Binary_search_tree/Removal)
-                                                [3](https://www.cs.usfca.edu/~galles/visualization/BST.html)]
+                                                [3](https://www.cs.usfca.edu/~galles/visualization/BST.html)]  
+[Tutorial 6] - Entry Heap
 
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its 
@@ -24,3 +25,4 @@ Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdow
    [Tutorial 3]: <https://github.com/YufeiCui/CSCA48/tree/master/tutorials/t3>
    [Tutorial 4]: <https://github.com/YufeiCui/CSCA48/tree/master/tutorials/t4>
    [Tutorial 5]: <https://github.com/YufeiCui/CSCA48/tree/master/tutorials/t5>
+   [Tutorial 6]: <https://github.com/YufeiCui/CSCA48/tree/master/tutorials/t6>
