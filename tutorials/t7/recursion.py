@@ -1,5 +1,5 @@
 # Yufei stole this from Albert because he thinks that this recursion exercise is really really
-# good and is great practice to recursion.
+# good and is a great practice.
 #
 # NOTE: THESE RECURSIVE FUNCTIONS ARE VERY VERY HARD (for students who have NEVER seen recursion before). So don't be
 # discouraged and ask Yufei for help if you need to.
