@@ -9,7 +9,7 @@ class Entry(object):
     ''' represents an entry that includes a key and a value'''
 
     def __init__(self, key, value):
-        '''(Item, int, obj) -> NoneType
+        '''(Entry, int, obj) -> NoneType
         constructs an item using key and value'''
         # Representation Invariant
         # _key is a positive integer
