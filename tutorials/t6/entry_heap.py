@@ -41,7 +41,7 @@ class Heap(object):
     '''
 
     def __init__(self, root_entry):
-        '''(eah, obj) -> NoneType
+        '''(Heap, Entry) -> NoneType
         construct a heap with root_entry as its root'''
         # representation invariant
         # _heap is a list
@@ -77,7 +77,7 @@ class Heap(object):
         return self._heap.pop()
 
     def min(self):
-        '''(Heap) -> obj
+        '''(Heap) -> Entry
         returns the entry with the highest priority
         Raises: EmptyHeapException'''
         if self.is_empty():
