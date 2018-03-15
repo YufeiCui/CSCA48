@@ -1,3 +1,5 @@
+# Provided by Dr. Marzieh Ahmadzadeh & Nick Cheng. Edited by Yufei Cui
+
 class TNode(object):
     ''' a class that represents a binary tree node'''
 
