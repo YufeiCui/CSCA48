@@ -1,3 +1,6 @@
+# Provided by Dr. Marzieh Ahmadzadeh & Nick Cheng. Edited by Yufei Cui
+
+
 vowels = ['a', 'e', 'i', 'o', 'u', 'A', 'E', 'I', 'O', 'U']
 
 
@@ -25,6 +28,9 @@ def vowel_count(a_string, v_count):
     if a_string[0] in vowels:
         v_count += 1
     return vowel_count(a_string[1:], v_count)
+
+
+# The way we did it in lecture, not requring the 2nd parameter
 
 # def vowel_count(a_string):
 #     '''(str, str) -> int
