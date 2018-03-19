@@ -15,7 +15,7 @@ Introduction to Computer Science II
                                                 [3](https://www.cs.usfca.edu/~galles/visualization/BST.html)]  
 [Tutorial 6] - Entry Heap  
 [Tutorial 7] - Recursion - Vowel counting  
-[Tutorial 8] - Recursion - HTree and Traversals
+[Tutorial 8] - Recursion - HTree and Traversals  
 [Tutorial 9] - Big-Oh
 
 
