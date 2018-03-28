@@ -17,7 +17,7 @@ Introduction to Computer Science II
 [Tutorial 7] - Recursion - Vowel counting  
 [Tutorial 8] - Recursion - HTree and Traversals  
 [Tutorial 9] - Big-Oh  
-[Tutorial 10] - Complexity - Analyzing code (Because of Good Friday, I'll leave the tutorial instructions here as well for you)
+[Tutorial 10] - Complexity - Analyzing code (Because of Good Friday, I'll leave the tutorial instructions here for you as well)
 
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its 
