@@ -1,6 +1,6 @@
 ## Sorting
 
-Sorting is often taught in CSC108 at the downtown/mississauga campus. They have some very helpful resouces on sorting/complexity of sorting and here are some of them.
+Sorting is often taught in CSC108 at the downtown/mississauga campus. They have some very helpful resources on sorting/complexity of sorting and here are some of them.
 
 Go to week 10 section on  
 http://www.teach.cs.toronto.edu/~csc108h/winter/lectures.shtml
