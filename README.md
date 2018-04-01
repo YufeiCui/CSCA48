@@ -17,7 +17,8 @@ Introduction to Computer Science II
 [Tutorial 7] - Recursion - Vowel counting  
 [Tutorial 8] - Recursion - HTree and Traversals  
 [Tutorial 9] - Big-Oh  
-[Tutorial 10] - Complexity - Analyzing code (Because of Good Friday, I'll leave the tutorial instructions here for you as well)
+[Tutorial 10] - Complexity - Analyzing code (Because of Good Friday, I'll leave the tutorial instructions here for you as well)  
+[Tutorial 11] - Sorting  
 
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its 
@@ -34,3 +35,4 @@ Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdow
    [Tutorial 8]: <https://github.com/YufeiCui/CSCA48/tree/master/tutorials/t8>
    [Tutorial 9]: <https://github.com/YufeiCui/CSCA48/tree/master/tutorials/t9>
    [Tutorial 10]: <https://github.com/YufeiCui/CSCA48/tree/master/tutorials/t10>
+   [Tutorial 11]: <https://github.com/YufeiCui/CSCA48/tree/master/tutorials/t11>
